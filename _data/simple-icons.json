@@ -3530,5 +3530,10 @@
             "hex": "52C2AF",
             "source": "https://github.com/zulip/zulip/"
         }
+
+        {
+            "title": "Zot",
+            "hex": "fb0000",
+            "source": "https://github.com/osamamuhammad/"
     ]
 }
